@@ -5,13 +5,11 @@ Agent skills for AI coding tools (Claude Code, Cursor, OpenCode, etc.)
 ## Install
 
 ```bash
-npx skills add https://github.com/joedeleeuw/skills --skill powersync-app-backend-postgres
-npx skills add https://github.com/joedeleeuw/skills --skill powersync-service-streams-expo
+npx skills add https://github.com/joedeleeuw/skills --skill powersync-postgres-expo
 ```
 
 ## Skills
 
 | Skill | Description |
 |-------|-------------|
-| `powersync-app-backend-postgres` | Postgres-focused PowerSync app-backend integration: connector design, JWT flow, type mapping, Sync Rules |
-| `powersync-service-streams-expo` | PowerSync Service replication, bucket behavior, Sync Streams, Expo/React Native client integration |
+| `powersync-postgres-expo` | PowerSync + Postgres + Expo/React Native: connector design, type mapping, Sync Rules, service replication, Sync Streams, client SDK integration |
