@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerSync Service, Streams, Expo"
+  short_description: "PowerSync service, streams, and Expo sync guide"
+  default_prompt: "Use $powersync-service-streams-expo to design PowerSync Service replication, evaluate Sync Streams, and implement Expo-side integration."

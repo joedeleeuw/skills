@@ -1,0 +1,4 @@
+interface:
+  display_name: "PowerSync App Backend (Postgres)"
+  short_description: "Postgres-focused PowerSync backend connector playbook"
+  default_prompt: "Use $powersync-app-backend-postgres to implement uploadData/fetchCredentials and harden Postgres write-path and type/operator handling."
